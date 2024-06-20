@@ -3,7 +3,7 @@ Best private cheat for PUBG without root rights
 
 <h2>AIMBOT</h2>
 
-Aim Bone: Head - Chest / Head - Body
+Head - Chest / Head - Body
 
 AimKey / Aim Button
 
@@ -19,7 +19,9 @@ Sticky Aim / Sticking Aimbot
 
 Smooth speed/Aim speed
 
-Priority / Priority By: Crosshair - Distance / Crosshair - Distance
+Priority / Priority
+
+Crosshair - Distance / Crosshair - Distance
 
 ![image](https://github.com/glebibebi/cheat-pubg/assets/173394172/f85516a2-bb2b-4fa7-ac6a-b3ebf66fd002)
 
